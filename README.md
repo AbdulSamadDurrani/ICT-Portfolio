@@ -1,2 +1,9 @@
-# ICT-Portfolio
-A Collection of projects, assignments, and experiments from my Software Engineering journey at Muhammad Ali jinnah university (MAJU)
+# My ICT-Portfolio
+
+Name: AbdulSamad Durrani 
+
+Program: BS (Software Engineering) 
+
+Semester: 1 
+
+This repository is created for my ICT assignment.
